@@ -1,0 +1,7 @@
+{
+  "name": "Lumière Noël",
+  "description": "A cinematic, gesture-controlled 3D Christmas experience featuring a particle tree and photo cloud.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
